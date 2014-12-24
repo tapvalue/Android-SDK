@@ -6,4 +6,4 @@ Tapvalue SDK for Android
 Latest version
 ===========
 
-1.1.2
+1.2.0
